@@ -1,5 +1,11 @@
+
 div{
   background: #fff;
   display: inline;
+}
+
+body{
+ font-size : 35px;
+  color : red ;
 
 }
